@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Matthew! I am a student at Rensselaer Polytechnic Institute, majoring in mechanical engineering and minoring in computer science.
+Hi, I'm Matthew! I am a student at Rensselaer Polytechnic Institute (RPI), majoring in mechanical engineering and minoring in computer science. I am specifically interested in robotics and control systems. Throughout my studies at RPI I have worked on several projects utilizing my a variety of technologies.
+<br/>
+Text
 
 A data-driven personal website
 ======
