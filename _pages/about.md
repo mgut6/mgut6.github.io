@@ -10,6 +10,6 @@ redirect_from:
 
 Hi, I'm Matthew! I'm currently a student at Rensselaer Polytechnic Institute (RPI), majoring in mechanical engineering and minoring in computer science. I am specifically interested in robotics and control systems. Throughout my studies at RPI I have worked on several projects utilizing a variety of technologies.
 <br/><br/>
-<img src='/images/about_pic.JPG' width= '500', height= '300'>
+<img src='/images/about_pic.JPG' width= "500", height= "300">
 <br/><br/>
 In addition to academics, I also participate in NCAA division III athletics as a member of the RPI track and field team. Some of my other interests include spikeball, board and card games, and watching movies.
