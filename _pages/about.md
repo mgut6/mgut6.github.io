@@ -12,4 +12,4 @@ Hi, I'm Matthew! I'm currently a student at Rensselaer Polytechnic Institute (RP
 <br/><br/>
 <img src='/images/about_pic.JPG'>
 <br/><br/>
-In addition to academics, I also participate in NCAA division III athletics as a member of the RPI track and field team.
+In addition to academics, I also participate in NCAA division III athletics as a member of the RPI track and field team. Some of my other interests include spikeball, board and card games, and watching movies.
