@@ -1,6 +1,6 @@
 ---
 permalink: /contact/
-title: "Markdown"
+title: "Contact"
 author_profile: true
 redirect_from:
   - /contact.html
