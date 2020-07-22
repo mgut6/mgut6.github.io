@@ -5,7 +5,7 @@ collection: portfolio
 ---
 Video<br/><br/>
 During the summer of 2020 I undertook a project to build my own remote controlled quadcopter. While researching the workings of quadcopters, I learned about IMUs and the process of how a quadcopter levels itself. Deciding upon an IMU consisting of a 3-axis gyroscope and 3-axis accelerometer, I purchased the necessary hardware to begin building. I chose brushless DC motors for this project because of their high torque to weight ratio, high efficiency, and greater reliability compared to their brushed counter parts.<br/>
-<center><img src ='/images/500x300.png'><br/>
+<center><img src ='https://drive.google.com/file/d/1II3vYPw3-0HATDiUDPUCyrLR7bZC7nvI/view?usp=sharing'><br/>
 <em>Mounted Arduino UNO</em></center><br/>
 For the flight controller, I used an Arduino UNO due to its ease of programming and its large current output compared to the Arduino mini. I mounted the Arduino above the surface of the frame in order to place the IMU at the center of the quadcopter. That way the vibrations from the motors would have the smallest effect on the IMU. The mount for the Arduino and for the IMU were both designed in Solidworks and then 3D printed. A 3s, 2200mAh lipo battery was used to power the quadcopter, directly powering the ESCs, DC motors, and the Arduino. The 5V pin on the Arduino was used to power both the IMU and the receiver, separating them from the ~12V circuit powering the motors. Additionally, an indicator LED was mounted on the front of the quadcopter to indicate status while calibrating the gyro and to indicate low battery during flight. <br/>
 <center><img src ='/images/500x300.png'><br/>
