@@ -11,4 +11,6 @@ I mounted the Arduino above the surface of the frame in order to place the IMU a
 <center><img src ='/images/500x300.png'><br/>
 <em>MPU-6050 Gyroscope/Accelerometer</em></center><br/>
 I chose the MPU-6050 gyro/accelerometer because it contained everything I needed for the IMU on one board and was 5V compatible. The IMU mainly used the motion detected by the gyro to determine the quadcopter position. The accelerometer was used to determine the quadcopter's initial position upon powering on, and to add a small correction for the drift of the gyro during flight. The Arduino's flight controller software used PID control for all 3 axes of motion.<br/>
-Each of the motors was controlled by sending a 1000 - 2000$\mu$s pulse to the ESCs. The transmitter also sent 1000 - 2000$\mu$s pulses to 
+<center><img src ='/images/500x300.png'><br/>
+<em>Motor and ESC</em></center><br/>
+Each of the motors was controlled by sending a 1000 - 2000$\mu$s pulse to the ESCs. A 1000$\mu$s pulse corresponding to no motion, and a 2000$\mu$s pulse corresponding to full speed. The transmitter also used 1000 - 2000$\mu$s pulses to communicate with the receiver. The angles calculated from the gyro/accelerometer readings were compared to the pulses from the transmitter to determine the error for the PID controller.
