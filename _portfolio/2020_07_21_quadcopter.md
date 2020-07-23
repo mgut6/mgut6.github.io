@@ -3,13 +3,13 @@ title: "Quadcopter"
 excerpt: "Remote controlled, self-leveling quadcopter<br/><img src='/images/quadcopter.jpg' width='500' height='300'>"
 collection: portfolio
 ---
-<p align="center">
+<div style="text-align:center;">
 
 <figure class="video_container">
   <iframe src="https://drive.google.com/file/d/1jqmDAwfn7arGobQy5hAV1Sc5CiZP0w-S/preview" frameborder="0" allowfullscreen="true" width="500" height="300"> </iframe>
 </figure>
 
-</p>
+</div>
 <br/>
 During the summer of 2020 I undertook a project to build my own remote controlled quadcopter. While researching the workings of quadcopters, I learned about IMUs and the process of how a quadcopter levels itself. Deciding upon an IMU consisting of a 3-axis gyroscope and 3-axis accelerometer, I purchased the necessary hardware to begin building. I chose brushless DC motors for this project because of their high torque to weight ratio, high efficiency, and greater reliability compared to their brushed counter parts.<br/>
 <center><img src ='/images/arduino.JPG' width="500" height="300"><br/>
