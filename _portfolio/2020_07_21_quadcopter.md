@@ -6,7 +6,7 @@ collection: portfolio
 <div style="text-align:center;">
 
 <figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/1jqmDAwfn7arGobQy5hAV1Sc5CiZP0w-S/preview" frameborder="0" allowfullscreen="true" width="500" height="300"> </iframe>
+  <iframe src="https://youtu.be/jXOwCT7Z8To" frameborder="0" allowfullscreen="true" width="500" height="300"> </iframe>
 </figure>
 
 </div>
