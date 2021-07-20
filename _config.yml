@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Matthew Gutierrez"
   avatar           : "me.JPG"
-  bio              : "Mechanical engineering student at Rensselaer Polytechnic Institute"
+  bio              : "Mechanical engineering graduate from Rensselaer Polytechnic Institute"
   location         : "Canton, CT"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :  
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
