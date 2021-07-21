@@ -1,6 +1,6 @@
 ---
 title: "Quadcopter"
-excerpt: "<img src='/images/quadcopter.jpg' width='250' height='150'>Remote controlled, self-leveling quadcopter<br/>"
+excerpt: "Remote controlled, self-leveling quadcopter<br/><img src='/images/quadcopter.jpg' width='250' height='150'>"
 collection: portfolio
 ---
 <div style="text-align:center;">
