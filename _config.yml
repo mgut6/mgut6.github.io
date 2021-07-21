@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About Me"
+title                    : "Matthew Gutierrez"
 title_separator          : "-"
 name                     : &name "Matthew Gutierrez"
 description              : &description "Mechanical engineering student at Rensselaer Polytechnic Institute"
